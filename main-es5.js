@@ -2703,7 +2703,7 @@ module.exports = "<div>\n        <h1 class=\"text-center text-capitalize mt-5\">
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"row\">\n  <div class=\"col-12 whitebg mt-5\">\n    <div class=\"container my-5 text-center\">\n      <h2>Veislynas \"IŠTIKIMAS ŠUO\"</h2>\n      <h2>Virginija Žiedienė</h2>\n      <img class=\"img-fluid\" alt=\"Virginija\" src=\"https://firebasestorage.googleapis.com/v0/b/random-2d2ff.appspot.com/o/vz.jpg?alt=media&token=4f1ae70d-7b73-4891-b427-97e771890bf5\">\n    </div>\n    <ul>\n      <li>Adresas: Basanavičiaus 32A, Šiauliai, LT-76234 Lietuva</li>\n      <li>Mob. telefonas: +37067790680</li>\n      <li>El. paštas: <a href=\"mail:istikimassuo@gmail.com\">istikimassuo@gmail.com</a></li>\n    </ul>\n  </div>\n</div>\n"
+module.exports = "<div class=\"row col-11 mx-auto\">\n  <div class=\"col-12 whitebg mt-5\">\n    <div class=\"container my-5 text-center\">\n      <h2>Veislynas \"IŠTIKIMAS ŠUO\"</h2>\n      <h2>Virginija Žiedienė</h2>\n      <img class=\"img-fluid\" alt=\"Virginija\" src=\"https://firebasestorage.googleapis.com/v0/b/random-2d2ff.appspot.com/o/vz.jpg?alt=media&token=4f1ae70d-7b73-4891-b427-97e771890bf5\">\n    </div>\n    <ul>\n      <li>Adresas: Basanavičiaus 32A, Šiauliai, LT-76234 Lietuva</li>\n      <li>Mob. telefonas: +37067790680</li>\n      <li>El. paštas: <a href=\"mail:istikimassuo@gmail.com\">istikimassuo@gmail.com</a></li>\n    </ul>\n  </div>\n</div>\n"
 
 /***/ }),
 
